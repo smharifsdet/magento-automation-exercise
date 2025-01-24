@@ -1,0 +1,2 @@
+# magento-automation-exercise
+automationFramework
